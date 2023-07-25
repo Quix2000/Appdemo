@@ -18,12 +18,18 @@
   <ItemGroup>
     <Reference Include="Dapper.Application">
       <HintPath>..\AZ-204\Dapper.Infrastructure\bin\Debug\net7.0\Dapper.Application.dll</HintPath>
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Dapper.Core">
       <HintPath>..\AZ-204\Dapper.Infrastructure\bin\Debug\net7.0\Dapper.Core.dll</HintPath>
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="Dapper.Infrastructure">
       <HintPath>..\AZ-204\Dapper.Infrastructure\bin\Debug\net7.0\Dapper.Infrastructure.dll</HintPath>
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
   </ItemGroup>
 
