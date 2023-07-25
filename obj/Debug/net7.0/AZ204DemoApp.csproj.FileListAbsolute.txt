@@ -248,12 +248,16 @@ Z:\AppDemo\bin\Debug\net7.0\appsettings.Development.json
 Z:\AppDemo\bin\Debug\net7.0\AZ204DemoApp.staticwebassets.runtime.json
 Z:\AppDemo\bin\Debug\net7.0\AZ204DemoApp.exe
 Z:\AppDemo\bin\Debug\net7.0\appsettings.json
+Z:\AppDemo\bin\Debug\net7.0\Dapper\Dapper.Application.dll
+Z:\AppDemo\bin\Debug\net7.0\Dapper\Dapper.Core.dll
+Z:\AppDemo\bin\Debug\net7.0\Dapper\Dapper.Infrastructure.dll
 Z:\AppDemo\bin\Debug\net7.0\AZ204DemoApp.deps.json
 Z:\AppDemo\bin\Debug\net7.0\AZ204DemoApp.runtimeconfig.json
 Z:\AppDemo\bin\Debug\net7.0\AZ204DemoApp.dll
 Z:\AppDemo\bin\Debug\net7.0\AZ204DemoApp.pdb
 Z:\AppDemo\bin\Debug\net7.0\Azure.Core.dll
 Z:\AppDemo\bin\Debug\net7.0\Azure.Identity.dll
+Z:\AppDemo\bin\Debug\net7.0\Dapper.dll
 Z:\AppDemo\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
 Z:\AppDemo\bin\Debug\net7.0\Microsoft.ApplicationInsights.AspNetCore.dll
 Z:\AppDemo\bin\Debug\net7.0\Microsoft.AI.DependencyCollector.dll
@@ -289,9 +293,6 @@ Z:\AppDemo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extens
 Z:\AppDemo\bin\Debug\net7.0\Dapper.Application.dll
 Z:\AppDemo\bin\Debug\net7.0\Dapper.Core.dll
 Z:\AppDemo\bin\Debug\net7.0\Dapper.Infrastructure.dll
-Z:\AppDemo\bin\Debug\net7.0\Dapper.Application.pdb
-Z:\AppDemo\bin\Debug\net7.0\Dapper.Core.pdb
-Z:\AppDemo\bin\Debug\net7.0\Dapper.Infrastructure.pdb
 Z:\AppDemo\obj\Debug\net7.0\AZ204DemoApp.csproj.AssemblyReference.cache
 Z:\AppDemo\obj\Debug\net7.0\AZ204DemoApp.GeneratedMSBuildEditorConfig.editorconfig
 Z:\AppDemo\obj\Debug\net7.0\AZ204DemoApp.AssemblyInfoInputs.cache
@@ -316,4 +317,3 @@ Z:\AppDemo\obj\Debug\net7.0\refint\AZ204DemoApp.dll
 Z:\AppDemo\obj\Debug\net7.0\AZ204DemoApp.pdb
 Z:\AppDemo\obj\Debug\net7.0\AZ204DemoApp.genruntimeconfig.cache
 Z:\AppDemo\obj\Debug\net7.0\ref\AZ204DemoApp.dll
-Z:\AppDemo\bin\Debug\net7.0\Dapper.dll
