@@ -46,6 +46,19 @@
           }
         }
       },
+      "Dapper/2.0.143": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.ApplicationInsights/2.21.0": {
         "type": "package",
         "dependencies": {
@@ -1395,6 +1408,24 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Dapper/2.0.143": {
+      "sha512": "Vh0U+Fins3IpS7APUlrzga3+1mswWngB5fZ0xj4w+FQR5JhJzA5uHV5rSepkahvmshNZUA0YcHtae9vFQpiVTw==",
+      "type": "package",
+      "path": "dapper/2.0.143",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.0.143.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
       ]
     },
     "Microsoft.ApplicationInsights/2.21.0": {
@@ -3853,6 +3884,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Azure.Identity >= 1.9.0",
+      "Dapper >= 2.0.143",
       "Microsoft.ApplicationInsights.AspNetCore >= 2.21.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0",
@@ -3908,6 +3940,10 @@
           "Azure.Identity": {
             "target": "Package",
             "version": "[1.9.0, )"
+          },
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.143, )"
           },
           "Microsoft.ApplicationInsights.AspNetCore": {
             "target": "Package",

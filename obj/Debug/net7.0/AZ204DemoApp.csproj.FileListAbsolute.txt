@@ -316,3 +316,4 @@ Z:\AppDemo\obj\Debug\net7.0\refint\AZ204DemoApp.dll
 Z:\AppDemo\obj\Debug\net7.0\AZ204DemoApp.pdb
 Z:\AppDemo\obj\Debug\net7.0\AZ204DemoApp.genruntimeconfig.cache
 Z:\AppDemo\obj\Debug\net7.0\ref\AZ204DemoApp.dll
+Z:\AppDemo\bin\Debug\net7.0\Dapper.dll

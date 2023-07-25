@@ -9,6 +9,7 @@
       "AZ204DemoApp/1.0.0": {
         "dependencies": {
           "Azure.Identity": "1.9.0",
+          "Dapper": "2.0.143",
           "Microsoft.ApplicationInsights.AspNetCore": "2.21.0",
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
@@ -52,6 +53,14 @@
           "lib/netstandard2.0/Azure.Identity.dll": {
             "assemblyVersion": "1.9.0.0",
             "fileVersion": "1.900.23.26104"
+          }
+        }
+      },
+      "Dapper/2.0.143": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.143.55328"
           }
         }
       },
@@ -734,6 +743,13 @@
       "sha512": "sha512-VGcyxE66Za9mO0MtTYG1+ABZGF84QS+KZW8RTbcpYXLomHHvGT+aAL/Yg/ayfN+Usk2Z+DKB0+hymBaOAokj/w==",
       "path": "azure.identity/1.9.0",
       "hashPath": "azure.identity.1.9.0.nupkg.sha512"
+    },
+    "Dapper/2.0.143": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vh0U+Fins3IpS7APUlrzga3+1mswWngB5fZ0xj4w+FQR5JhJzA5uHV5rSepkahvmshNZUA0YcHtae9vFQpiVTw==",
+      "path": "dapper/2.0.143",
+      "hashPath": "dapper.2.0.143.nupkg.sha512"
     },
     "Microsoft.ApplicationInsights/2.21.0": {
       "type": "package",
